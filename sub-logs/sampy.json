@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/sampy123/my-react-portfolio",
+
+  "owner": {
+    "username": "sampy123",
+    "email": "abdoulsa95@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+      "name": "sampy", 
+      "value": "hosting.gitbook.io"
+    }
+  },
+
+  "proxied": false
+}
